@@ -1,4 +1,4 @@
-# Codsoft
+# Codsoft UI UX Internship
 
 First task
 
