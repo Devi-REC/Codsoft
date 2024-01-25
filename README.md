@@ -4,4 +4,6 @@ First task
 
 https://github.com/Devi-REC/Codsoft/assets/143986781/e45b1c6c-ded7-4217-a07f-35db0be0a0c8
 
+Second task
 
+https://github.com/Devi-REC/Codsoft-UI-UX-Internship/assets/143986781/dad89e4d-3a13-47c6-be28-51b47c894fde
